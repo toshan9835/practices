@@ -1,3 +1,3 @@
-# practices 
-question which i practices on
+# practice
+question which i practices
 
