@@ -1,3 +1,3 @@
-# practices ud
-question which i practices on udmey
+# practices 
+question which i practices on
 
